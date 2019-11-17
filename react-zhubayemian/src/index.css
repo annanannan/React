@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+}
+ul,li{
+  padding:0;
+  margin:0;
+  list-style:none
+}
+
+/* AppHome*/
+.body1 {
+  margin: 0;
+  background-color: #eeeeee;
+  width: 100%;
+}
+.body1 .body2 {
+  width: 100px!important;
+  margin: 0 auto;
+  margin-top: 20px; 
+  margin-bottom: 20px;
+}
+.placeholder {
+  background-color: #ebebef;
+  color: #bbb;
+  text-align: center;
+  height: 110px;
+  line-height: 110px;
+  width: 100%;
+}
+footer span{
+  font-weight: bolder;
+  color: #3fcccb;
+}
+footer p{
+  font-size: 15px;
+}
+
+/*AppInspiration*/
+header img{
+  float: right;
+  margin-top: 25px;
+  margin-right: 10px;
+}
+nav{
+  height: 35px;
+  width: 100%;
+
+}
+nav ul li{
+  float: left;
+  color: #232323;
+  line-height: 50px;
+  font-size: 17px;
+  margin-left: 9px;
+}
+nav ul li:nth-child(1){
+  color: #3fcccb;
+  margin-left: 12.5px;
+}
+
+.body3{
+  padding-top: 15px;
+  background-color: #fff;
+}
+.body3 p{
+  text-align: center;
+}
+.body4{
+  padding-top: 15px;
+  background-color: #eeeeee;
+}
+.body4 img{
+  width: 170px;
+  height: 120px;
+}
+.body4 p{
+  text-align: left;
+}
